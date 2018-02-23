@@ -8,6 +8,8 @@ html, body {
 body {
   overflow: hidden;
   background-color: hsl(1, 85%, 52%);
+  font-family: sans-serif;
+  font-size: 16px;
 }
 
 svg {
