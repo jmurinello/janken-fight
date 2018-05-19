@@ -1,0 +1,12 @@
+.background, .jan, .ken, .fight, .start {
+  fill: hsl(0,0%,0%);
+}
+
+.foreground {
+  fill: hsl(0,0%,100%);
+}
+
+.start {
+  font-size: 1.875em;
+  font-weight: 700;
+}
